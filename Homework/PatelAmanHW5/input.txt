@@ -1,0 +1,69 @@
+17
+Stu	Erin Summer  
+	8 25 2019
+	3.5
+        Freshman
+Stu	Erik Brown 
+	8 8 2018
+	3.9
+	Sophomore
+Sta 	Mustafa Atici	
+	1 20 2000
+	Accountant
+	40 30 28
+Fac	Ferhan  Atici 
+	10 21 1904
+	Professor	
+	30000
+Fac	James Gary
+	3 30 1993
+	AssociateProff
+	60000
+Sta 	Amber Brown
+	3 4 1996
+	OfficeAssociate
+	45 25.40 30
+Stu	Aman Summr  
+	8 29 2009
+	3.9
+        Freshman
+Stu	Emily Brown 
+	8 8 2008
+	4.0
+	Sophomore
+Sta 	Mohan Atici	
+	1 20 2010
+	Manager
+	40 30 40
+Fac	Kishan  Atici 
+	10 21 1998
+	AssistantProfessor	
+	300000
+Fac	Guru Gary
+	3 30 1903
+	AssociatePro
+	600000
+Sta 	Bado Brown
+	3 4 1960
+	Secretory
+	50 25.40 50
+Stu	Smith Brown 
+	8 8 20010
+	3.7
+	Sophomore
+Sta 	Mohan Patel	
+	1 20 2011
+	Manager
+	80 30 5000
+Fac	Kishan Patel 
+	10 21 1999
+	AssistantProfessor	
+	400000
+Fac	Rakesh Rowedy
+	3 30 1953
+	AssociatePro
+	6000000
+Sta 	Jake Brown
+	3 5 1960
+	Secretory
+	100 25.40 50
